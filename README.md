@@ -9,5 +9,5 @@ INTEGRATED WITH BLOCKCHAIN
 5.If researcher, encrypted data of all patients is displayed. If patient, one's own decrypted test report is displayed.[ReactJs, Web3.js]<br>
 
 
-<h4>Note: Execution Procedure and screenshots enclosed</h4>
+<h4>Note: Installation Procedures, Execution Procedures & Screenshots enclosed</h4>
 
